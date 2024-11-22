@@ -1,0 +1,37 @@
+/* h1,
+a {
+  color: red;
+} */
+
+body {
+  background-color: gray;
+}
+
+/* p a {
+  color: rgb(255, 145, 0);
+} */
+
+/* selecione todo "a" que tiver dentro de p */
+
+/* Não pode repetir id's no css, pq pode dar problemas no javascript futuramente, não quebra o html, mas é errado. */
+
+#intro {
+  color: gold;
+}
+
+/* criando classes */
+
+.codigo , .desing{
+  color: red;
+}
+
+.azul{
+  color: blue;
+}
+.underline{
+  text-decoration: underline;
+}
+.grande{
+  font-size: 32px;
+}
+
