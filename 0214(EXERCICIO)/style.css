@@ -1,0 +1,38 @@
+body {
+  font-family: arial;
+}
+
+h1 {
+  font-size: 35px;
+  text-align: center;
+}
+h2 {
+  color: white;
+  font-size: 26px;
+}
+
+div {
+  background-color: #111;
+  width: auto;
+  height: 200px;
+  border-radius: 4px;
+}
+
+.texto {
+  color: #b2b2b2;
+  font-size: 17px;
+}
+
+span {
+  color: #febe01;
+}
+
+.amarelo2 {
+  background-color: #febe01;
+  color: #111;
+  width: 150px;
+  height: 45px;
+  border-radius: 4px;
+  font-size: 18px;
+  border: none;
+}
