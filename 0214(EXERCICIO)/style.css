@@ -1,5 +1,6 @@
 body {
   font-family: arial;
+  margin: 50px;
 }
 
 h1 {
@@ -14,8 +15,10 @@ h2 {
 div {
   background-color: #111;
   width: auto;
-  height: 200px;
+  height: 160px;
   border-radius: 4px;
+  padding: 30px;
+  margin: 20px;  
 }
 
 .texto {
