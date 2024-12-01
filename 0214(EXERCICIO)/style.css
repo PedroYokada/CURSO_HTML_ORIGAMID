@@ -30,12 +30,11 @@ span {
   color: #febe01;
 }
 
-.amarelo2 {
+a {
   background-color: #febe01;
   color: #111;
-  width: 150px;
-  height: 45px;
+  padding: 10px;
   border-radius: 4px;
-  font-size: 18px;
+  font-size: 20px;
   border: none;
 }
