@@ -1,0 +1,17 @@
+span {
+  display: inline-block;
+  background: #ddd;
+}
+
+span {
+  margin: 30px;
+  margin: 20px 40px;
+  margin: 40px 100px 200px 10px;
+  border: 10px solid black;
+  border-top: 20px solid blue;
+  border-width: 30px 60px;
+}
+
+h1{
+  margin-block-start: 30px;
+}
